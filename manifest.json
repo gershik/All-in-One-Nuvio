@@ -33,7 +33,7 @@
       "enabled": true,
       "formats": ["m3u8", "mp4"],
       "logo": "https://www.google.com/s2/favicons?domain=animedekho.app&sz=128",
-      "contentLanguage": ["hi", "en", "ja"]
+      "contentLanguage": ["en", "ja"]
     },
     {
       "id": "castle",
@@ -90,6 +90,34 @@
       "contentLanguage": [
         "en"
       ]
+    },
+    {
+      "id": "desiflix",
+      "name": "DesiFlix",
+      "description": "Bollywood, Hollywood, and South Indian movies, in Dual Language",
+      "version": "1.0.0",
+      "author": "Nuvio Team",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/desiflix.js",
+      "enabled": true,
+      "hasSettings": false,
+      "formats": ["mp4", "mkv", "m3u8"],
+      "logo": "https://i.postimg.cc/Vvs4fmwM/desiflix.png",
+      "contentLanguage": ["en"]
+    },
+        {
+      "id": "vegamovies",
+      "name": "VegaMovies",
+      "description": "VegaMovies streaming with high-quality direct links",
+      "version": "2.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/vegamovies.js",
+      "enabled": true,
+      "hasSettings": true,
+      "formats": ["mp4", "mkv"],
+      "logo": "https://i.postimg.cc/TwYK26jn/vegamovies.png",
+      "contentLanguage": ["en"]
     },
     {
       "id": "reanime",
