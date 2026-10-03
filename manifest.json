@@ -1,6 +1,6 @@
 {
   "name": "All-in-One-Nuvio",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "scrapers": [
     {
       "id": "4khdhub",
@@ -26,7 +26,7 @@
       "id": "animedekho",
       "name": "AnimeDekho",
       "description": "AnimeDekho streaming anime series and movies with sub and dub, multi-audio and high-speed multi-server support",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Nuvio Team",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/animedekho.js",
@@ -39,7 +39,7 @@
       "id": "castle",
       "name": "🏰 Castle",
       "description": "Multi Lang provider",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "author": "Nuvio Team",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/castle.js",
@@ -53,7 +53,7 @@
       "id": "moviebox",
       "name": "MovieBox",
       "description": "MovieBox streaming with multiple language support (DASH + MP4)",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "author": "Nuvio Team",
       "supportedTypes": [
         "movie",
@@ -74,7 +74,7 @@
       "id": "moviesdrive",
       "name": "MoviesDrive",
       "description": "MoviesDrive streaming with HubCloud and Google Drive extraction",
-      "version": "3.0.1",
+      "version": "3.0.2",
       "author": "Nuvio Team",
       "supportedTypes": [
         "movie",
@@ -95,7 +95,7 @@
       "id": "desiflix",
       "name": "DesiFlix",
       "description": "Bollywood, Hollywood, and South Indian movies, in Dual Language",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Nuvio Team",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/desiflix.js",
@@ -109,7 +109,7 @@
       "id": "vegamovies",
       "name": "VegaMovies",
       "description": "VegaMovies streaming with high-quality direct links",
-      "version": "2.0",
+      "version": "2.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/vegamovies.js",
@@ -123,7 +123,7 @@
       "id": "reanime",
       "name": "Reanime",
       "description": "Reanime anime streaming with automated AniList mapping and subtitle support",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Nuvio Team",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/reanime.js",
@@ -131,7 +131,7 @@
       "hasSettings": false,
       "formats": ["mkv", "m3u8"],
       "logo": "https://www.google.com/s2/favicons?domain=reanime.to&sz=128",
-      "contentLanguage": ["hi", "en", "ja"]
+      "contentLanguage": ["en"]
     }
   ]
 }
