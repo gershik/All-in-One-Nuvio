@@ -28,12 +28,12 @@
       "description": "AnimeDekho streaming anime series and movies with sub and dub, multi-audio and high-speed multi-server support",
       "version": "1.0.0",
       "author": "Nuvio Team",
-      "supportedTypes": ["movie", "tv"],
+      "supportedTypes": ["movie", "tv", "anime"],
       "filename": "providers/animedekho.js",
       "enabled": true,
       "formats": ["m3u8", "mp4"],
       "logo": "https://www.google.com/s2/favicons?domain=animedekho.app&sz=128",
-      "contentLanguage": ["en", "ja"]
+      "contentLanguage": ["hi", "en", "ja"]
     },
     {
       "id": "castle",
@@ -97,7 +97,7 @@
       "description": "Reanime anime streaming with automated AniList mapping and subtitle support",
       "version": "1.0.0",
       "author": "Nuvio Team",
-      "supportedTypes": ["movie", "tv"],
+      "supportedTypes": ["movie", "tv", "anime"],
       "filename": "providers/reanime.js",
       "enabled": true,
       "hasSettings": false,
